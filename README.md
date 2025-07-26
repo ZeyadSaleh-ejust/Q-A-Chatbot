@@ -2,6 +2,8 @@
 
 ## Steps to run it
 
+`Note`: first git your groq and LangChain API Key
+
 ### Step1:
 ```bash
 conda create -p venv python==3.10 -y
